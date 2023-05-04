@@ -12,7 +12,7 @@ $teams = [
     ]
 
      ];
-     var_dump($team)
+     
 
 
 ?>
